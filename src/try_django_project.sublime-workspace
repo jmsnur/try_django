@@ -1,0 +1,547 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"staff_member_required"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"bl",
+				"BlogPostQuerySet"
+			],
+			[
+				"B",
+				"BlogPostManager"
+			],
+			[
+				"g",
+				"get_absolute_url"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"de",
+				"decorators"
+			],
+			[
+				"b",
+				"BlogPostForm"
+			],
+			[
+				"Bl",
+				"BlogPostForm"
+			],
+			[
+				"C",
+				"ContactForm"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"HO",
+				"home_page"
+			],
+			[
+				"fro",
+				"forms"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"blog_post_de",
+				"blog_post_delete_view"
+			],
+			[
+				"obje",
+				"object"
+			],
+			[
+				"blo",
+				"blog_post_list_view"
+			],
+			[
+				"slug",
+				"slug_s"
+			],
+			[
+				"ob",
+				"object"
+			],
+			[
+				"ht",
+				"HttpResponse"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"m",
+				"markup3"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"bt",
+				"btn3"
+			],
+			[
+				"btn",
+				"btn2"
+			],
+			[
+				"bn",
+				"btn1"
+			],
+			[
+				"rep",
+				"ReplyKeyboardMarkup"
+			],
+			[
+				"co",
+				"content_types"
+			],
+			[
+				"ke",
+				"KeyboardButton"
+			],
+			[
+				"sen",
+				"send_welcome"
+			],
+			[
+				"con",
+				"content_types"
+			],
+			[
+				"bu",
+				"button_geo"
+			],
+			[
+				"chat",
+				"chat_id"
+			],
+			[
+				"send",
+				"send_message"
+			],
+			[
+				"comm",
+				"comment_form\tstatement"
+			],
+			[
+				"com",
+				"comments\tstatement"
+			],
+			[
+				"p",
+				"post"
+			],
+			[
+				"is",
+				"is_valid\tfunction"
+			],
+			[
+				"f",
+				"filter"
+			],
+			[
+				"get",
+				"get_object_or_404\tfunction"
+			],
+			[
+				"Co",
+				"CommentAdmin\tclass"
+			],
+			[
+				"list",
+				"list_editable\tstatement"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"tem",
+				"TEMPLATES_DIR\tstatement"
+			],
+			[
+				"T",
+				"TEMPLATES"
+			],
+			[
+				"Pos",
+				"PostAdmin\tclass"
+			],
+			[
+				"lis",
+				"list_display\tstatement"
+			],
+			[
+				"def",
+				"default\tparam"
+			],
+			[
+				"Intege",
+				"IntegerField\tclass"
+			],
+			[
+				"Date",
+				"DateTimeField\tclass"
+			],
+			[
+				"Te",
+				"TextField\tclass"
+			],
+			[
+				"aut",
+				"auto_now\tparam"
+			],
+			[
+				"Da",
+				"DateTimeField\tclass"
+			],
+			[
+				"a",
+				"auth\tmodule"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "try_django/settings.py",
+			"settings":
+			{
+				"buffer_size": 3234,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/base.html",
+			"settings":
+			{
+				"buffer_size": 715,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/User/Dev/try_django/src/templates/base.html",
+		"/C/Users/User/Dev/try_django/src/templates/home.html",
+		"/C/Users/User/Dev/try_django/src/blog/templates/blog/detail.html",
+		"/C/Users/User/Dev/try_django/src/blog/templates/blog/list-inline.html",
+		"/C/Users/User/Dev/try_django/src/blog/templates/blog/list.html",
+		"/C/Users/User/Dev/try_django/src/blog/views.py",
+		"/C/Users/User/Dev/try_django/src/blog/forms.py",
+		"/C/Users/User/Dev/try_django/src/blog/models.py",
+		"/C/Users/User/Dev/try_django/src/try_django/views.py",
+		"/C/Users/User/Dev/try_django/src/templates/form.html",
+		"/C/Users/User/Dev/try_django/src/try_django/urls.py",
+		"/C/Users/User/Dev/try_django/src/try_django/settings.py",
+		"/C/Users/User/Dev/try_django/src/templates/navbar.html",
+		"/C/Users/User/Dev/try_django/src/templates/js.html",
+		"/C/Users/User/Dev/try_django/src/blog/admin.py",
+		"/C/Users/User/Dev/try_django/src/blog/templates/blog/delete.html",
+		"/C/Users/User/Dev/try_django/src/try_django/forms.py",
+		"/C/Users/User/Dev/try_django/src/blog/templates/blog/form.html",
+		"/C/Users/User/Dev/try_django/src/blog/urls.py",
+		"/C/Users/User/Dev/try_django/src/templates/blog_post_create.html",
+		"/C/Users/User/Dev/try_django/src/templates/blog_post_delete.html",
+		"/C/Users/User/Dev/try_django/src/templates/blog_post_detail.html",
+		"/C/Users/User/Dev/try_django/src/templates/blog_post_list.html",
+		"/C/Users/User/Dev/try_django/src/templates/blog_post_update.html",
+		"/C/Users/User/Desktop/task3.sql",
+		"/C/Users/User/Dev/try_django/src/templates/about.html",
+		"/C/Users/User/Dev/try_django/src/templates/hello_world.html",
+		"/C/Users/User/Dev/bot/pole/exem.py",
+		"/C/Users/User/Dev/bot/pole/keybrd.py",
+		"/C/Users/User/Dev/bot/pole/db.py",
+		"/C/Users/User/Dev/bot/pole/db.sql",
+		"/C/Users/User/Downloads/Telegram Desktop/answers.sql",
+		"/C/Users/User/Dev/bot/pole/readme.txt",
+		"/C/Users/User/Dev/bot/pole/main.py",
+		"/C/Users/User/Dev/bot/pole/logging.py",
+		"/C/Users/User/Dev/django/mysite/db.sqlite3",
+		"/C/Users/User/Dev/django/mysite/blog/admin.py",
+		"/C/Users/User/Dev/django/mysite/blog/urls.py",
+		"/C/Users/User/Dev/django/mysite/blog/forms.py",
+		"/C/Users/User/Dev/django/mysite/blog/models.py",
+		"/C/Users/User/Dev/django/mysite/templates/post_detail.html",
+		"/C/Users/User/Dev/django/mysite/templates/index.html",
+		"/C/Users/User/Dev/django/mysite/templates/sidebar.html",
+		"/C/Users/User/Dev/django/mysite/templates/base.html",
+		"/C/Users/User/Dev/django/mysite/mysite/urls.py",
+		"/C/Users/User/Dev/django/mysite/mysite/settings.py",
+		"/C/Users/User/Dev/django/mysite/blog/views.py",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 118.4,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\User\\Dev\\try_django\\src"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "try_django/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3196,
+								3196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2484.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/base.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
